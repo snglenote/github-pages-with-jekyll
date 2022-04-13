@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Hello there
+author: snglenote
+email: cakoonyatse@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Hello there, i am currently creating this peng website as i am learning to use github pages with jekyll, i dont know what to add to the description. I honestly never know what to add to these, is that a bad thing? nobodys seeing this anyway but i still i will make sure to come back to edit it in the future. yeah nice
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: snglenote
+github_username: snglenote
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
